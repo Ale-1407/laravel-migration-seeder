@@ -15,10 +15,10 @@ class TrainsTableSeeder extends Seeder
         $trains = [
            [
             'train_type' => 'Regionale',
-            'station' => 'Porta Nuova',
-            'city' => 'Torino',
-            'departure' => 10-30-00,
-            'arrival' => 14-30-00
+            'station' => 'Piazza Principe',
+            'city' => 'Genova',
+            'departure' => '9:30:00',
+            'arrival' => '11:30:00'
            ]
         ];
 
